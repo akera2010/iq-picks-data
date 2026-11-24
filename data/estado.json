@@ -1,0 +1,1 @@
+{"generatedAt":"2026-11-24T23:39:55.714Z","apps":{"futboliq":{"ok":false,"error":"no se publica: sin picks (fuente caída o día sin partidos)","seconds":1},"beisboliq":{"ok":true,"date":"2026-11-24","seconds":1},"baloncestoiq":{"ok":true,"date":"2026-11-25","seconds":2}}}
